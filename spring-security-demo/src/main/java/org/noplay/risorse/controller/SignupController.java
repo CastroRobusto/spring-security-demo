@@ -55,7 +55,7 @@ public class SignupController {
 				+ "    <div class=\"card-body p-5\">\n"
 				+ "      <h1 class=\"fw-light\">Azienda di consulenza informatica</h1>\n"
 				+ "      <div class=\"alert alert-success\">\n"
-				+ "  <strong>Registrazione effetuata!</strong><br>Ora puoi avere accesso ai contenuti della pagina.\n"
+				+ "  <strong>Registrazione effettuata!</strong><br>Ora puoi avere accesso ai contenuti della pagina.\n"
 				+ "  <div><br>\n"
 				+ "  \n"
 				+ "\n"
