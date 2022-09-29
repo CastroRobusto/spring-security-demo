@@ -41,7 +41,7 @@ public class AuthService implements UserDetailsService {
 		newUtente.setEmail(email);
 		newUtente.setUsername(username);
 		newUtente.setPassword(passwordEncoder.encode(password));
-		newUtente.setRuolo(Roles.ADMIN);
+		newUtente.setRuolo(Roles.USER);
 		try {			
 			dao.save(newUtente);
 		} catch (Exception e) {
